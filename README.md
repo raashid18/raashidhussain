@@ -1,5 +1,6 @@
 # mrh.com
-Website Development with HTML &amp; CSS
+Website Development with HTML, CSS and Javascript.
+
 
 <img width="1427" alt="Screenshot 2022-06-15 at 2 54 07 PM" src="https://user-images.githubusercontent.com/67089791/173795122-c0351e7b-02ae-458d-9e41-add0e0c896e5.png">
 <img width="1427" alt="Screenshot 2022-06-15 at 2 54 39 PM" src="https://user-images.githubusercontent.com/67089791/173795162-c21b8cf5-f754-4e27-bd3e-734333d7837e.png">
